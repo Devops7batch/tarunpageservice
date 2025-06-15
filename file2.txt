@@ -1,1 +1,1 @@
-git is local repo and github is a centro repo
+this is all from devops
