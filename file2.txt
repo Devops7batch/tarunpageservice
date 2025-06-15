@@ -1,0 +1,2 @@
+git is local repo and github is a centro repo
+from working directory to local repo in b/w staging area will be there that ie virtual area.
